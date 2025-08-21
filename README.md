@@ -11,7 +11,7 @@ It highlights patient distribution, demographics, and affected areas to support 
 - Age group segmentation and trends over time  
 
 ## Dashboard Preview
-Include images or screenshots of your dashboard here.  
+Included images screenshots of my  dashboard in other file .  
 
 ## Recommendations
 - Focus awareness in the most affected areas  
